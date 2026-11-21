@@ -51,4 +51,4 @@ At the highest recorded student-vehicle airspeed, the 11.9 g drag reading corres
 
 ## Project attribution
 
-This was a **four-person team team project** conducted at the end of Summer 26 Measurements Lab. My personal contribution included helping design and assemble the car in Solidworks, Setting up the windtunnel and recording experimental data after multiple trials, and finally analyzing data into a project report.
+This was a **four-person team team project** conducted at the end of the Summer 26 semester in Measurements Lab. My personal contribution included helping design and assemble the car in Solidworks, Setting up the wind tunnel and recording experimental data after multiple trials, and finally analyzing data into a project report.
