@@ -51,6 +51,4 @@ At the highest recorded student-vehicle airspeed, the 11.9 g drag reading corres
 
 ## Project attribution
 
-This was a **four-person team project** in UCF Mechanical Engineering Measurements. The results and figures in the attached PDF come from the team's course report; this repository does not claim that one person independently completed all design, testing, and analysis tasks.
-
-<!-- Before making the repository public, add a sentence describing your own verified contributions and confirm you have permission to publish team-produced photos, plots and results. If you have original SolidWorks files, add them in a separate follow-up commit. -->
+This was a **four-person team team project** conducted at the end of Summer 26 Measurements Lab. My personal contribution included helping design and assemble the car in Solidworks, Setting up the windtunnel and recording experimental data after multiple trials, and finally analyzing data into a project report.
