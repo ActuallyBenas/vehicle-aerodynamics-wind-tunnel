@@ -49,6 +49,13 @@ At the highest recorded student-vehicle airspeed, the 11.9 g drag reading corres
 - Potential error sources include vehicle alignment, sensor zero offset, frontal-area estimates, model vibration, test-section wall effects, and wind-tunnel restarts between runs.
 - A useful follow-up would repeat tests at matched speeds with multiple trials, test another CAD geometry, and compare the wind-tunnel data with a CFD simulation.
 
-## Project attribution
 
-This was a **four-person team team project** conducted at the end of the Summer 26 semester in Measurements Lab. My personal contribution included helping design and assemble the car in Solidworks, Setting up the wind tunnel and recording experimental data after multiple trials, and finally analyzing data into a project report.
+### My Contributions
+
+This was a four-person team project completed during the Summer 2026 semester as part of UCF's Mechanical Engineering Measurements Laboratory.
+
+My contributions included:
+- **CAD Design and Assembly:** Collaborated with teammates to design and assemble a vehicle model using SolidWorks.
+- **Experimental Testing:** Assisted with setting up the wind tunnel, conducting multiple test runs, and recording aerodynamic drag measurements at different airflow velocities.
+- **Data Analysis:** Analyzed experimental results to evaluate drag force, drag coefficient, Reynolds number, and aerodynamic performance.
+- **Technical Documentation:** Contributed to preparing the final engineering report, including experimental results, calculations, and conclusions.
